@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erinnaog
+- 👋 Hi, I’m Kimnay.
 - 👀 I’m interested in Data-driven decision making
 - 🌱 I’m currently learning Data Analysis and other relevants entrepreneurship skills
 - Confession: Getting started in Data Analysis is one of the best decision I have ever made, 
